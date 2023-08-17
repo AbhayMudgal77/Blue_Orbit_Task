@@ -1,0 +1,242 @@
+.login{
+    border-radius:25px;
+    padding: 10px 35px;
+    margin-top: 10px ;
+    width: auto;
+    color: white;
+    background-color: #5fc25f;
+    
+}
+.home{
+   display: flex;
+   margin-left: 53%;
+   
+
+}
+.nav{
+    margin-top: 20px;
+    display: flex;
+    display: block;
+    margin-left: 27px;
+}
+.b{
+    display: flex;
+    flex-direction: column;
+}
+#v{
+    text-decoration: none;
+    color: black;
+    
+    margin-left: 12px;
+    
+    
+}
+#n{ 
+    color: #5fc25f;
+    text-decoration: none;
+    word-spacing: 5px;
+    padding-bottom: 8px;
+    border-bottom-style: solid ;
+    border-bottom-width: 3.1px;
+    width: fit-content;
+    
+    
+}
+.h{
+    margin-right:116px;
+    text-align: center;
+   
+}
+.logo{
+    background-image: url('./images.jpg') norepeat;
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin-left: 40px;
+    
+    
+}
+
+.p{
+    display: block;
+    font-size: 65px;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-weight: 700;
+    margin-bottom: 66px;
+}
+.var{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 2px;
+    border-radius: 67px;
+    width: 450px;
+    height: 60px;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+.vy{
+   width: 16%;
+   height:56%;
+   padding-right: 31px;
+}
+.ty{
+font-size: 28px;
+font-weight: 200;
+}
+
+.sec_1{
+    display: flex;
+}
+
+ .card{margin-left: 30px;
+    margin-top: 20px;
+    width: 200px;
+   padding-bottom: 1%;
+  
+   border:  solid 2px;
+    
+ }
+ .ih{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 700;
+    padding-bottom: 12px;
+ }
+.img{     margin-left: 64px;
+    margin-bottom: 20px;
+    background-color: white;
+    padding: 12px;
+    margin-top: 31%;
+    width: 71px;
+    border: solid 1px;
+    border-radius: 100%;
+   
+}
+.dt{  margin-top: 15px;
+    display: flex;
+    justify-content: center;
+}
+.dot{
+    height: 10px;
+    width: 10px;
+    background-color: #bbb;
+    border-radius: 50%;
+   
+    margin-left: 25px;
+  }
+  .section_2{
+    margin-top: 55px;
+    background-color: rgba(240, 243, 247, 0.961);
+  }
+
+  .what{
+    font-size: 65px;
+    padding-top: 65px;
+    margin-left: 55px;
+    color: rgb(34, 34, 54);
+    font-weight: 900;
+  }
+  .sep{
+    margin-right: 32px;
+    margin-left: 17px;
+font-weight: 700;
+color: #0a0a0a9b;}
+
+  .var1{
+    margin-top: 61px;
+    margin-left: 122px;
+  }
+  .sep1{
+    border-radius:25px;
+    padding: 9px 42px;
+    
+    width: auto;
+    color: white;
+    background-color: #1fbf85;
+    font-weight: 600;
+  }
+  .march{
+    padding-top: 65px;
+    font-size: 28px;
+    margin-left: 154px;
+    color: rgb(34, 34, 54);
+    font-weight: 600;
+  }
+  .grid{
+    display: flex;
+    margin-top: -25px;
+
+  }
+  .g{
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-top: 48px;
+    width: 436px;
+    padding-bottom: 4%;
+    border: solid 1px;}
+    .i{margin-bottom: -35px;
+        margin-top: 13px;
+        padding-left: 40px;
+        font-weight: 600;
+        margin-right: 55px;
+    }
+    .mm{
+        width: 16%;
+        height:45%;
+        margin-top: 4px;
+        margin-right: 18px;
+    }
+    .kk{
+        margin: auto;
+        margin-right: 29px;
+        margin-left: -41px;
+        margin-top: 28px;
+        padding-top: 20px;
+    }
+    .sec_3a{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      margin-bottom: 24px;
+      margin-top: 27px;
+      margin-right: 127px;
+    }
+    .circle::before{
+      color: green;
+    padding: 8px;
+    width: 40px;
+    height: 36px;
+    display: block;
+    border: solid 1px;
+    border-radius: 50%;
+  
+
+  }
+  .j{
+    margin: 12px;
+    padding-bottom: 110px;
+    padding: 16px;
+  }
+  .k{
+    padding-right: -4px;
+    margin: 30px;
+    padding-top: 15px;
+    margin-right: 44px;
+  }
+  .l{
+
+    padding-top: 6px;
+    
+    margin-right: 190px;
+    border-radius: 56px;
+    padding-left: 46px;
+    border: solid 1px;
+    margin-left: 18px;
+  color: #5fc25f;}
+  
+  
